@@ -1,0 +1,21 @@
+Student ID,Name,Degree,Thesis Topic,Approval Date,Defense Date,Grade,supervisor,prof1,prof2,semesters,rank_by_year,year
+9822743012,Abbasi,Master,Simulation,2021-01-12 00:00:00,2022-12-12 00:00:00,18.0,Babak Rezaee,Alireza Shadman,Hamide Razavi,4,"98,4.5",2021
+9722743218,Hosseini,PHD,Logistic,2021-02-13 00:00:00,2022-07-11 00:00:00,15.0,Alireza Shadman,Mohammad Ranjbar,Mahmood Hosseini,3,"97,5.0",2021
+9922743150,Mohammadi,Master,Financial Systems,2020-12-13 00:00:00,2021-10-09 00:00:00,19.0,,,,2,"99,9.5",2020
+9812743388,Moradi,PHD,Logistic,2021-03-14 00:00:00,-,-,Hamidreza Koosha,Yaser Bani Hashemi,Babak Rezaee,4,"98,-",2021
+9822743183,Nemati,PHD,Project Control,2019-03-11 00:00:00,2021-04-07 00:00:00,18.34,,,,5,"98,3.668",2019
+9712743062,Kazemi,PHD,Data Anaylsis,2021-11-28 00:00:00,2023-01-29 00:00:00,20.0,Frazad Dehghanian,Hamidreza Koosha,Mohammad Ranjbar,3,"97,6.666666666666667",2021
+9712743108,Jahani,Master,Fuzzy Logic,2021-02-18 00:00:00,-,-,Hamide Razavi,Rahele Yari,Babak Rezaee,4,"97,-",2021
+9812743139,Abhari,Master,Queuing Theory,2021-09-24 00:00:00,2022-02-17 00:00:00,16.78,Majid Salari,Frazad Dehghanian,Yaser Bani Hashemi,1,"98,16.78",2021
+9722743150,-,-,-,2018-07-01,-,-,Mohammad Ranjbar,Mohammad Zahrani,Frazad Dehghanian,10,"97,-",2018
+9722743183,-,-,-,2018-07-01,-,-,Yaser Bani Hashemi,Alireza Shadman,Majid Salari,10,"97,-",2018
+9722743288,Amiri,Master,Queuing Theory,2019-08-07,2021-01-15,17,Hamidreza Koosha,Yaser Bani Hashemi,Mohammad Ranjbar,3,"97,5.666666666666667",2019
+9722743238,Hasani,PHD,Simulation,2019-07-18,2022-07-09,18,Yaser Bani Hashemi,Yaser Bani Hashemi,Majid Salari,7,"97,2.5714285714285716",2019
+9722743106,Ahmadi,PHD,Fuzzy Logic,2018-04-18,2021-02-12,18,Majid Salari,Rahele Yari,Babak Rezaee,6,"97,3.0",2018
+9722743189,Alavi,Master,Queuing Theory,2018-03-19,2022-10-29,15,Yaser Bani Hashemi,Frazad Dehghanian,Babak Rezaee,10,"97,1.5",2018
+9722743170,Hosseini,Master,Logistic,2019-03-11,2020-04-08,19,Hamide Razavi,Alireza Shadman,Frazad Dehghanian,3,"97,6.333333333333333",2019
+9722743291,Rezaei,Master,Financial Systems,2018-03-07,2022-07-31,17,Frazad Dehghanian,Mohammad Ranjbar,Mahmood Hosseini,9,"97,1.8888888888888888",2018
+9722743290,Javadi,PHD,Simulation,2018-07-27,2022-07-13,19,Mohammad Ranjbar,Mohammad Ranjbar,Yaser Bani Hashemi,9,"97,2.111111111111111",2018
+9722743122,Mahdavi,Master,-,2018-02-28,2021-07-21,16,Frazad Dehghanian,Mohammad Zahrani,Mahmood Hosseini,7,"97,2.2857142857142856",2018
+9722743259,Fatemi,Master,Data Anaylsis,2018-02-05,2020-02-06,15,Alireza Shadman,Rahele Yari,Mahmood Hosseini,5,"97,3.0",2018
+9722743107,Asghari,Master,Logistic,2018-04-07,2020-10-30,16,Hamide Razavi,Hamidreza Koosha,Yaser Bani Hashemi,6,"97,2.6666666666666665",2018
